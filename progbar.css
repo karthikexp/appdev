@@ -1,0 +1,31 @@
+body{
+    width:70%;
+    text-align: center;
+    padding-left:15%;
+    padding-top:10%;
+}
+#progressbar
+{
+    width:100%;
+    background-color: #ffffff;
+}
+#bar{
+    width:10%;
+    height: 20px;
+    background-color: green;
+    text-align: center;
+    color:white;
+    border:1px solid #dddddd;
+}
+#ddlSelectBars
+{
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+button
+{
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+}
