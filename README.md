@@ -2,7 +2,7 @@
 Multiple Progress Bar - Responsive
 ---------------------------
 Following points has covered into Multiple Progress Bar
- •Must read data from the endpoint
+ •Must read data from the endpoint\n
  •Multiple bars
  •One set of controls that can control each bar on the fly
  •Can't go under 0
