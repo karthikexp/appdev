@@ -1,7 +1,7 @@
 # appdev
 Multiple Progress Bar - Responsive
 ---------------------------
-Following points has covered into Multiple Progress Bar
+Following points has covered into Multiple Progress Bar<br>
  •Must read data from the endpoint <br>
  •Multiple bars<br>
  •One set of controls that can control each bar on the fly<br>
